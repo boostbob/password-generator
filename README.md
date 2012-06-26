@@ -9,12 +9,11 @@ gem install password-generator-0.0.1.gem
 ```
 
 ```ruby
->> require 'password-generator'
 => true
 >> PasswordGenerator.new_password
-=> "{XO55fGXuPFK"
+=> "C9Quq9T,&a:4"
 >> PasswordGenerator.new_password
-=> "u#S9s{)BbOkj"
+=> "EN@yEq:f+LIW"
 >> PasswordGenerator.new_password
-=> "g<A{Q:I-[+;K"
+=> "N,nP}/m=aaX4"
 ```
