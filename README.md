@@ -16,5 +16,5 @@ gem install password-generator-0.0.1.gem
 >> PasswordGenerator.new_password
 => "u#S9s{)BbOkj"
 >> PasswordGenerator.new_password
-=> "g<A{Q:I-[+;K">
+=> "g<A{Q:I-[+;K"
 ```
